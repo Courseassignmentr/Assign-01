@@ -1,2 +1,1 @@
-# Assign-01
-sample assignment for coe3200
+# This repository is for COE 3200 assignment as a sample and the pyton script gretting message.
